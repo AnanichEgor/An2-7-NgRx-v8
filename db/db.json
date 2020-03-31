@@ -14,9 +14,11 @@
     },
     {
       "id": 3,
-      "action": "Edit",
+      "action": "Deploy",
       "priority": 3,
-      "estHours": 4
+      "estHours": 8,
+      "actHours": 0,
+      "done": true
     },
     {
       "id": 4,
